@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Secondary and Grammar school Kamnik.
 - 💼 &nbsp; Working as a Senior Developer at [Orb](https://orb.si).
-- 🎤 &nbsp; Hosting a podcast at VegaHQ.
+- 🎤 &nbsp; Hosting a podcast at [VegaHQ](https://www.twitch.tv/vegahqslo).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
