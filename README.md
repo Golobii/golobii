@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Secondary and Grammar school Kamnik.
-- 💼 &nbsp; Working as a Senior Developer at [Aerio](https://aerio.tech).
+- 💼 &nbsp; Sucking ass at [Aerio](https://aerio.tech).
 - 🎤 &nbsp; Hosting a podcast at [VegaHQ](https://www.twitch.tv/vegahqslo).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -47,6 +47,6 @@
 <p align="center">
 <a href="https://golobii.si"><img alt="Website" src="https://img.shields.io/badge/Website-www.golobii.si-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/luka-golob-cerar-29155620b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luka Golob Cerar-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:luka@orb.si"><img alt="Email" src="https://img.shields.io/badge/Email-luka@orb.si-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:gcluka@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gcluka@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
