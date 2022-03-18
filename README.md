@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Secondary and Grammar school Kamnik.
-- 💼 &nbsp; Sucking ass at [Aerio](https://aerio.tech).
+- 💼 &nbsp; Founder and CEO of [Aerio](https://aerio.tech).
 - 🎤 &nbsp; Hosting a podcast at [VegaHQ](https://www.twitch.tv/vegahqslo).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -12,7 +12,8 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=ED2939)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=00599C)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=00599C)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=00599C)
 - 🌐 &nbsp;
@@ -32,7 +33,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=¸9FE2BF)
 
 <br/>
 
