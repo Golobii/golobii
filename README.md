@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Secondary and Grammar school Kamnik.
-- 💼 &nbsp; Founder and CEO of [Aerio](https://aerio.tech).
+- 💼 &nbsp; Founder and CEO of [Aerio](https://aerio.golobii.com).
 - 🎤 &nbsp; Hosting a podcast at [VegaHQ](https://www.twitch.tv/vegahqslo).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
